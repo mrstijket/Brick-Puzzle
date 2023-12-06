@@ -52,5 +52,6 @@
         "Temp/": true
     },
     "workbench.settings.openDefaultKeybindings": true,
-    "workbench.settings.openDefaultSettings": true
+    "workbench.settings.openDefaultSettings": true,
+    "dotnet.defaultSolution": "Brick-Puzzle.sln"
 }

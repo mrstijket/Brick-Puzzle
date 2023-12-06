@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "unity.unity-debug",
-        "Unity.unity-debug"
+        "Unity.unity-debug",
+        "visualstudiotoolsforunity.vstuc"
     ]
 }
